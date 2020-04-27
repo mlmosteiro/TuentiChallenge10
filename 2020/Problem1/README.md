@@ -1,9 +1,9 @@
-#Challenge 1 - Rock, Paper, Scissors
+# Challenge 1 - Rock, Paper, Scissors
 @mlmosteiro
 
-##Proposed solution
+## Proposed solution
 In these case the problem is solved comparing the values of both players with the rules of the game. In this case the rules are defined in a Enum.
-######Rules
+###### Rules
 - **Rock** loses against Paper
 - **Scissors** loses against Rock
 - **Paper** loses against Scissors
